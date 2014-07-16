@@ -1,0 +1,1 @@
+﻿package com.thride.home{			public class Fingerpoint extends ElementProto	{						public function Fingerpoint()		{					}					}}

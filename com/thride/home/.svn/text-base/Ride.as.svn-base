@@ -1,0 +1,1 @@
+﻿package com.thride.home{			public class Ride extends ElementProto	{						public function Ride()		{					}					}}
